@@ -1,1 +1,2 @@
 read me file
+THIS IS MY FIRST GIT TUTORIAL 
